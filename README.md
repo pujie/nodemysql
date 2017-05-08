@@ -13,11 +13,11 @@ sample of nodejs - mysql - datatable
 
 6. clone https://github.com/pujie/nodemysql
 
-7. cd nodemysql
+7. type in command prompt : cd nodemysql
 
-8. npm install
+8. type in command prompt : npm install
 
-9. node listclients
+9. type in command prompt : node listclients
 
 10. open in your browser http://localhost:2000
 
