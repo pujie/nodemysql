@@ -11,7 +11,7 @@ sample of nodejs - mysql - datatable
 
 5. grant all privileges of webclients to webclients@localhost
 
-6. clone https://github.com/pujie/nodemysql/edit/master/README.md
+6. clone https://github.com/pujie/nodemysql
 
 7. cd nodemysql
 
